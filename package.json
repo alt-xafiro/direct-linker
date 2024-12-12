@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "license": "WTFPL",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest",
+    "format": "prettier --write \"./src/**/*.{js,jsx,ts,tsx,css}\" \"./**/*.html\""
+  },
+  "engines": {
+    "node": "22"
+  },
+  "devDependencies": {
+    "prettier": "3.4.2",
+    "typescript": "5.7.2",
+    "vite": "6.0.3",
+    "vitest": "2.1.8"
+  }
+}
