@@ -28,5 +28,5 @@ For example, [`https://dl.xafiro.site/?link=https://www.dropbox.com/scl/fi/lvd0d
 
 The service was created to be used as a shortcut in Google Chrome address bar:
 
-![](https://dl.dropboxusercontent.com/scl/fi/g7cuxi3h2rmjgzwq1713h/direct-linker-usecase.png?rlkey=3690lg632s25cxavxi5u86xg3)<br>
+![](https://dl.dropboxusercontent.com/scl/fi/n8lg12ylr8vn5im5gi19m/direct-linker-chrome.png?rlkey=vbibqkrw4gs46gv62vhth63y3)<br>
 *`chrome://settings/searchEngines`*
