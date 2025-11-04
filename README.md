@@ -9,11 +9,11 @@ Transforms public cloud links into direct links to files.
 
 ## How to use
 
-After `https://dl.xafiro.site/?link=`, paste a cloud link to your file and go to the resulting address.
+After `https://direct-linker.vercel.app/?link=`, paste a cloud link to your file and go to the resulting address.
 
 ### Example
 
-[`https://dl.xafiro.site/?link=https://www.dropbox.com/scl/fi/lvd0d2ljm61sjfbgta7vw/diirect-linker-example-01.jpg?rlkey=xb3cfheiv5pmnd16kk73dbtas&st=rchblek3&dl=0`](https://dl.xafiro.site/?link=https://www.dropbox.com/scl/fi/lvd0d2ljm61sjfbgta7vw/diirect-linker-example-01.jpg?rlkey=xb3cfheiv5pmnd16kk73dbtas&st=rchblek3&dl=0)
+[`https://direct-linker.vercel.app/?link=https://www.dropbox.com/scl/fi/lvd0d2ljm61sjfbgta7vw/diirect-linker-example-01.jpg?rlkey=xb3cfheiv5pmnd16kk73dbtas&st=rchblek3&dl=0`](https://direct-linker.vercel.app/?link=https://www.dropbox.com/scl/fi/lvd0d2ljm61sjfbgta7vw/diirect-linker-example-01.jpg?rlkey=xb3cfheiv5pmnd16kk73dbtas&st=rchblek3&dl=0)
 
 ## Explainer
 
